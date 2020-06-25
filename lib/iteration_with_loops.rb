@@ -13,6 +13,6 @@ def join_nested_strings(src)
     end
     counter +=1
   end
-  results.join(" ")
+  results.join("")
   return results
 end
